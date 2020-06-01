@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "833605982887",
+    "firebase_url": "https://gsalmobile.firebaseio.com",
+    "project_id": "gsalmobile",
+    "storage_bucket": "gsalmobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833605982887:android:cc20bd58e47ed2a8145982",
+        "android_client_info": {
+          "package_name": "com.example.gsalmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833605982887-ctjve4klrfek7svmc2qaqcif5jlunovq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gsalmobile",
+            "certificate_hash": "31414828ec2269d99ef84a571731adecb739cbb0"
+          }
+        },
+        {
+          "client_id": "833605982887-5glb0pl3qi6o1eecv4mubtjrjnf1is5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxQdg5hE2GTVpm8GoSm1MTYS3ARDFbK9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833605982887-5glb0pl3qi6o1eecv4mubtjrjnf1is5c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

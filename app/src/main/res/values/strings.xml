@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">login</string>
+    <string name="btn_list_salaries">Salaries</string>
+    <string name="btn_add_salarie">Ajouter un Salarie</string>
+    <string name="btn_quitter">Quitter</string>
+    <string name="liste_sal_btn_add">Nouveau Salarié</string>
+    <string name="add_sal_btn_add">Enregistrer</string>
+    <string name="add_sal_btn_exit">Annuler</string>
+    <string name="add_sal_btn_prenom">Prenom</string>
+    <string name="add_sal_btn_nom">nom</string>
+    <string name="add_sal_btn_cin">CIN</string>
+    <string name="add_sal_btn_addresse">addresse</string>
+    <string name="add_sal_btn_mail">E-mail</string>
+    <string name="add_sal_btn_date">Date Naissance</string>
+    <string name="add_sal_btn_telephone">Téléphone</string>
+    <string name="add_sal_btn_emploi">Emploi Occupé</string>
+    <string name="add_sal_btn_departement">Département</string>
+    <string name="add_sal_btn_salaire">Salaire de Base</string>
+    <string name="add_sal_btn_anciennete">Ancienneté</string>
+    <string name="add_sal_prime">Prime</string>
+    <string name="add_sal_title">Ajouter un nouveau salarié</string>
+    <string name="login">Entrez l\'email </string>
+    <string name="pswd">Entrez le mot de passe</string>
+    <string name="login_title">Connexion</string>
+    <string name="btn_connect">se connecter</string>
+    <string name="btn_register">s\'inscrire</string>
+    <string name="btn_register_validate">valider</string>
+    <string name="btn_register_cancel">annuler</string>
+    <string name="reg_title">Inscription</string>
+    <string name="reg_log">veuillez saisir un nom d\'utilisateur valide</string>
+    <string name="reg_email">veuillez saisir un email valide</string>
+    <string name="reg_pswd1">veuillez saisir votre mot de passe</string>
+
+
+</resources>
