@@ -63,7 +63,7 @@ public class connexion extends AppCompatActivity {
                     public void onComplete(@NonNull Task<AuthResult> task) {
                         if (task.isSuccessful()) {
                             Toast.makeText(connexion.this, "utilisateur est connecté", Toast.LENGTH_SHORT).show();
-                            startActivity(new Intent(getApplicationContext(), acceuil.class));
+                            startActivity(new Intent(getApplicationContext(), accueil.class));
                         }
                     }
                 });
